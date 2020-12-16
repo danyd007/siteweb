@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-**Prix :** 839€
+**Prixee :** 839€
  
 [Link](url) and ![Image](src)
 ```
